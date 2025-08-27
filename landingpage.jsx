@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./landingpage.css";
 
 function App() {
   return (
@@ -47,5 +47,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
